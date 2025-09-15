@@ -8,13 +8,13 @@ This is the final project for the **ValiIT! Data Analyst** course. The project d
 *Version Control:* **Git**
 
 ## ⭐Project Team⭐
-#### **Piret Kääp**, 
+#### Product Owner **Piret Kääp**, 
 LinkedIn: https://www.linkedin.com/in/piretsaartok/, Portfolio: https://github.com/PiretKaap/Portfolio
 
-#### **Triin Pent**,
+#### Product Tester **Triin Pent**,
 LinkedIn:, Portfolio: 
 
-#### **Vahur Täht**, 
+#### Product Tester **Vahur Täht**, 
 LinkedIn:, Portfolio: 
 
 # Research Problem:  
