@@ -21,9 +21,7 @@ LinkedIn:, Portfolio:
 Company X operates in the fields of forestry, real estate, and the wood industry. It uses an in-house, time-consuming program to calculate the values of forest and agricultural land. The company wants a tool to make the valuation process smoother and more efficient.
 
 # Research Plan 
-The main question is how to determine a property's true value. For this, we will create a model that calculates a data-supported estimate based on a number of key variables. We will analyze financial outlay like timber harvest costs and project the future value of immature timber. The plan will also incorporate local market data for regional land prices, as well as qualitative factors like accessibility and conservation restrictions. This will provide a comprehensive valuation in a detailed income and expense table.
-
-
+The main question is how to determine a property's true value. For this, we will create a model that calculates a data-supported estimate based on a number of key variables. 
 
 # Business Glossary
 Return a valuation software or model used to calculate the value of forest and agricultural land by integrating multiple factors.
