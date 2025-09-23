@@ -49,5 +49,11 @@ Return a valuation software or model used to calculate the value of forest and a
 # Data Quality Control 
 
 # Data Flow 
-POWER BI diagramm - ühendused 
 
+# Exploratory Data Analysis 
+
+# Statistical Data Analysis 
+
+# Descriptive Report / Analysis 
+
+# Data Story, Conclusions 
