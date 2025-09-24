@@ -54,7 +54,7 @@ Return a valuation software or model used to calculate the value of forest and a
 | Mahu jaotus | FLOAT | Log volume distribution - palk, peenp, paber, küte, jäätmed | cubic meter | Mahutabel.xlsx |
 | Kulud (jäätmeteta) | FLOAT | Per cubic meter prices of comprehensive service and transportation multiplied by the total wood volume, from which the cost of the waste volume has been subtracted | € | Calculation |
 | Tulud-kulud (jäätmeteta) | FLOAT | Total calculated price, from which the cost of expenses has been subtracted | € | Calculation|
-| Soovituslik alghind | FLOAT | Calculation based on Tulud-kulud (jäätmeteta) dataframe and reduced by 10% based on the Alghind.| € | Calculation|
+| Soovituslik alghind | FLOAT | Calculation based on Tulud-kulud (jäätmeteta) calculation and reduced by 10% based on the Alghind.| € | Calculation|
 | | | | | |
 
 
