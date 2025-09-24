@@ -45,11 +45,11 @@ Return a valuation software or model used to calculate the value of forest and a
 | Height | FLOAT | Tree height | meter | Linda AI generated .json file |
 | Area ha | FLOAT | Total area | hectare | Linda AI generated .json file |
 | Volume | FLOAT | Timber quantity per hectare | cubic meter | Linda AI generated .json file |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| Name_EE | TEXT | Tree name in Estonian (KU - Spruce, MA - Pine, KS - Birch, Other Deciduous) | | Puu_nimetused_EE_ENG.xlsx |
+| Name_ENG | TEXT | Tree name in English (Spruce, Pine, Birch, Other Deciduous) | | Puu_nimetused_EE_ENG.xlsx |
+| Diameter category | FLOAT | Tree trunk diameter categories | | Calculation |
+| Relative height (h24) | INTEGER | The average height of a tree with a diameter of 24 cm. Calculaton: Height / h24 coefficient, rounded up to the nearest whole number | | Suhtelised_tugikõrgused.xlsx |
+| h24 coefficient | FLOAT | Ratio of trunk height above ground to total tree height | | Suhtelised_tugikõrgused.xlsx |
 | | | | | |
 | | | | | |
 | | | | | |
