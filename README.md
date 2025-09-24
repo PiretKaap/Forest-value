@@ -37,6 +37,15 @@ Return a valuation software or model used to calculate the value of forest and a
 | Alghinna(%) | INTEGER | Percentage of the defined base price (for calculating reccomended starting bid) | € | Manually entered |
 | Stock m3 | FLOAT | All the timber on a specific forest plot | cubic meter | Linda AI generated .json file |
 | Hind | FLOAT | Log, small timber, pulpwood, fuelwood prices in € | € | Hinnakiri.xlsx |
+| Stand | INTEGER | Part of forest within a cadastral unit where the trees are uniform in species, age, and site conditions, managed as one unit | | Linda AI generated .json file |
+| Sortiment  | TEXT | Different types of timber as logs, small logs, pulpwood, and waste | | Linda AI generated .json file |
+| Species | TEXT | Distinct type of tree (Spruce, Pine, Birch, Other Deciduous) | | Linda AI generated .json file |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
 | | | | | |
 | | | | | |
 | | | | | |
