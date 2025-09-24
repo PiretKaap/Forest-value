@@ -40,6 +40,15 @@ Return a valuation software or model used to calculate the value of forest and a
 | Stand | INTEGER | Part of forest within a cadastral unit where the trees are uniform in species, age, and site conditions, managed as one unit | | Linda AI generated .json file |
 | Sortiment  | TEXT | Different types of timber as logs, small logs, pulpwood, and waste | | Linda AI generated .json file |
 | Species | TEXT | Distinct type of tree (Spruce, Pine, Birch, Other Deciduous) | | Linda AI generated .json file |
+| Maht | FLOAT | Timber volume | cubic meter | Linda AI generated .json file |
+| Diameter | FLOAT | Tree diameter | centimeter | Linda AI generated .json file |
+| Height | FLOAT | Tree height | meter | Linda AI generated .json file |
+| Area ha | FLOAT | Total area | hectare | Linda AI generated .json file |
+| Volume | FLOAT | Timber quantity per hectare | cubic meter | Linda AI generated .json file |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
 | | | | | |
 | | | | | |
 | | | | | |
