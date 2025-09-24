@@ -33,7 +33,7 @@ Return a valuation software or model used to calculate the value of forest and a
 |:---:|:---:|:---:|:---:|:---:|
 | Kulud | FLOAT | Defining costs - Kompleksteenus (€/tm), Transport (€/tm), Alghinna(%) | €/tm | Manually entered |
 | Kompleksteenus | FLOAT | Estimated cost of harvesting a cubic meter of wood | €/cubic meter | Manually entered |
-| | | | | |
+| Transport | FLOAT | Estimated cost of transporting a cubic meter of wood | €/cubic meter | Manually entered |
 | | | | | |
 | | | | | |
 | | | | | |
