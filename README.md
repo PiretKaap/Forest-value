@@ -34,9 +34,9 @@ Return a valuation software or model used to calculate the value of forest and a
 | Kulud | FLOAT | Defining costs - Kompleksteenus (€/tm), Transport (€/tm), multiplied by volume | €/tm | Manually entered |
 | Kompleksteenus | FLOAT | Estimated cost of harvesting a cubic meter of wood | €/cubic meter | Manually entered |
 | Transport | FLOAT | Estimated cost of transporting a cubic meter of wood | €/cubic meter | Manually entered |
-| | | | | |
-| | | | | |
-| | | | | |
+| Alghinna(%) | INTEGER | Percentage of the defined base price (for calculating reccomended starting bid) | € | Manually entered |
+| Stock m3 | FLOAT | All the timber on a specific forest plot | cubic meter | Linda AI generated .json file |
+| Hind | FLOAT | Log, small timber, pulpwood, fuelwood prices in € | € | Hinnakiri.xlsx |
 | | | | | |
 | | | | | |
 | | | | | |
