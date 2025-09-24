@@ -31,16 +31,15 @@ Return a valuation software or model used to calculate the value of forest and a
 # Data Dictionary
 | Field Name | Data Type | Definition | Unit| Source |
 |:---:|:---:|:---:|:---:|:---:|
-|Property_value |String|Shows the value of a specific property|inside database|
 | Kulud | FLOAT | Defining costs - Kompleksteenus (€/tm), Transport (€/tm), Alghinna(%) | €/tm | Manually entered |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
 
 # Creation of dummy dataset
 
