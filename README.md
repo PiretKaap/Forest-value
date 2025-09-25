@@ -31,8 +31,6 @@ Return a valuation software or model used to calculate the value of forest and a
 # Data Dictionary
 | Field Name | Data Type | Definition | Unit| Source |
 |:---:|:---:|:---:|:---:|:---:|
-
-
 | Kompleksteenus | FLOAT | Estimated cost of harvesting a cubic meter of wood | €/cubic meter | Manually entered |
 | Transport | FLOAT | Estimated cost of transporting a cubic meter of wood | €/cubic meter | Manually entered |
 | Alghinna(%) | INTEGER | Percentage of the defined base price (for calculating reccomended starting bid) | % | Manually entered |
