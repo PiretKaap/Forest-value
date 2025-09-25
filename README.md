@@ -31,10 +31,25 @@ Return a valuation software or model used to calculate the value of forest and a
 # Data Dictionary
 | Field Name | Data Type | Definition | Unit| Source |
 |:---:|:---:|:---:|:---:|:---:|
+
 | Stand | INTEGER | Part of forest within a cadastral unit where the trees are uniform in species, age, and site conditions | | Linda AI generated .json file |
 | Puuliik | TEXT | Distinct type of tree (Spruce, Pine, Birch, Other Deciduous) | | Linda AI generated .json file |
 | Kõrgus | FLOAT | Tree height | meter | Linda AI generated .json file |
 | Diameeter | FLOAT | Tree diameter | centimeter | Linda AI generated .json file |
+
+| Kompleksteenus | FLOAT | Estimated cost of harvesting a cubic meter of wood | €/cubic meter | Manually entered |
+| Transport | FLOAT | Estimated cost of transporting a cubic meter of wood | €/cubic meter | Manually entered |
+| Alghinna(%) | INTEGER | Percentage of the defined base price (for calculating reccomended starting bid) | % | Manually entered |
+| Tagavara m3 | FLOAT | All the timber on a stand | cubic meter | Linda AI generated .json file |
+| Stand | INTEGER | Part of forest within a cadastral unit where the trees are uniform in species, age, and site conditions, managed as one unit | | Linda AI generated .json file |
+| Sortiment  | TEXT | Different types of timber as palk, peenp, paber, küte, jäätmed | | Mahutabel.xlsx |
+| Mahu jaotus | FLOAT | Log volume distribution - palk, peenp, paber, küte, jäätmed | cubic meter | Mahutabel.xlsx |
+| Sortimentide jaotusklass | TEXT | Code that consists of - diameetri klass, Name_EE, h24 | | Calculation |
+
+| Species | TEXT | Distinct type of tree (Spruce, Pine, Birch, Other Deciduous) | | Linda AI generated .json file |
+| Diameter | FLOAT | Tree diameter | centimeter | Linda AI generated .json file |
+| Height | FLOAT | Tree height | meter | Linda AI generated .json file |
+
 | Pindala ha | FLOAT | Area of the stand | hectare | Linda AI generated .json file |
 | Tihedus m3/ha | FLOAT | Timber volume per hectare | cubic meter per hectare | Linda AI generated .json file |
 | Tagavara m3 | FLOAT | All the timber on a stand | cubic meter | Calculated |
