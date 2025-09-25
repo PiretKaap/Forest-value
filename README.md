@@ -60,12 +60,15 @@ Return a valuation software or model used to calculate the value of forest and a
 # Creation of dummy dataset
 
 # Description of Data Protection
+Üldpõhimõtted + Firmasisene kasutamine + programmi koostamisel on meid usaldatud/oleme saanud ligipääsu ... failidele.
 
 # Data Quality Control 
 
 # Data Flow 
 
 # Exploratory Data Analysis 
+Initial Data Assessment:
+Input Validation:
 
 # Statistical Data Analysis 
 
