@@ -58,16 +58,16 @@ Return a valuation software or model used to calculate the value of forest and a
 # Creation of dummy dataset
 
 # Description of Data Protection
-The objective of the group assignment is to determine the value of agricultural land or forest. For this purpose, data transmitted by the cooperation partner, which are necessary for carrying out the calculations, shall be processed.
+The objective of the final projec is to determine the value of agricultural land or forest. For this purpose, data transmitted by the company X, which are necessary for carrying out the calculations, shall be processed.
 
-The fundamental principles governing the processing of data provided by the cooperation partner for the purposes of the group assignment are as follows:
-1. Legality – the processing of data is based on the mandate of the cooperation partner;
+The fundamental principles governing the processing of data provided by the company X for the purposes of the final projec are as follows:
+1. Legality – the processing of data is based on the mandate of the company X;
 2. Purpose limitation – the data shall be used solely for the calculation of the value of forest or agricultural land;
 3. Data minimisation – only the minimum amount of data necessary to achieve the objective shall be processed;
 4. Accuracy and data quality – the data used shall be those deemed necessary by the client for the fulfilment of the task;
-5. Retention period – the period of data retention shall be determined by the cooperation partner;
+5. Retention period – the period of data retention shall be determined by the company X;
 6. Security – the data shall not be disclosed to any third party, and their preservation shall be duly ensured;
-7. Accountability and transparency – where necessary, the cooperation partner shall be provided with information regarding the manner in which the data are processed and utilised for the achievement of the group assignment’s objective. Reliability, confidentiality, and the protection of the cooperation partner’s trade secrets shall be observed at all times.
+7. Accountability and transparency – where necessary, the company X shall be provided with information regarding the manner in which the data are processed and utilised for the achievement of the final projec’s objective. Reliability, confidentiality, and the protection of the company X’s trade secrets shall be observed at all times.
 
 # Data Quality Control 
 
