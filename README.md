@@ -5,7 +5,7 @@ This is the final project for the **ValiIT! Data Analyst** course. The project d
 
 *Data Visualization:* **Python (ipywidgets), Power BI**
 
-*Data source formats:* **JSON, APi, Excel**
+*Data source formats:* **JSON, API, Excel**
 
 *Version Control:* **GitHub**
 
