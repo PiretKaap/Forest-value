@@ -26,6 +26,12 @@ The main question is how to determine a property's true value. For this, we will
 # Business Glossary
 Return a valuation software or model used to calculate the value of forest and agricultural land by integrating multiple factors.
 
+# Valuation software
+Mis programm?
+Kust saime andmed?
+Milliste andmete pealt lõime programmi?
+Milline on väärtus ettevõttele? 
+
 # Data Model
 
 # Data Dictionary
