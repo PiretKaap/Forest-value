@@ -55,13 +55,28 @@ document.addEventListener('DOMContentLoaded', () => {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload)
       });
+
       const res = await r.json();
       if (!r.ok || res.error) throw new Error(res.error || `HTTP ${r.status}`);
 
-      const html = Object.entries(res).map(([k, v]) =>
+      // Soovitud kuvamisjärjekord
+      const desiredOrder = [
+        'Maht kokku',
+        'Hind kokku',
+        'Kulud (jäätmeteta)',
+        'Tulud-kulud (jäätmeteta)',
+        'Soovituslik alghind'
+      ];
+      // Esiteks soovitud võtmed, siis ülejäänud
+      const orderedKeys = [
+        ...desiredOrder.filter(k => Object.prototype.hasOwnProperty.call(res, k)),
+        ...Object.keys(res).filter(k => !desiredOrder.includes(k))
+      ];
+
+      const html = orderedKeys.map(k =>
         `<div class="flex justify-between py-1">
            <span class="font-semibold">${k}:</span>
-           <span>${v}</span>
+           <span>${res[k]}</span>
          </div>`
       ).join('');
       results.innerHTML = html || 'Tulemus puudub.';
