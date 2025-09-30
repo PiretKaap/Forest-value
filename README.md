@@ -32,7 +32,8 @@ It provides three key outputs: a detailed table of cadastral data, wood usage by
 
 # Data Flow 
 
-# Data Model
+# How to use the Python code 
+Mis faili Api ja Json ja UI ja mis on algtabelid(Excelid)?
 
 # Data Dictionary
 | Field Name | Data Type | Definition | Unit| Source |
@@ -79,10 +80,6 @@ Key steps include:
 3. Data Transformation. Using a Python program, trees are classified into groups based on their diameters. If a tree’s diameter is less than 5 cm, an error message is issued; diameters exceeding 52 cm are capped at 52 cm. The diameter range for calculations is 5–52 cm.
 4. Continuous Monitoring and Reporting. Any errors or deviations in the provided data trigger immediate notifications by the program.
 
-# Exploratory Data Analysis
-
-# Statistical Data Analysis 
-
-# Descriptive Report / Analysis 
+# Calculation discription 
 
 # Data Story, Conclusions 
