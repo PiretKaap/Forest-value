@@ -105,6 +105,8 @@ Key steps include:
 3. Data Transformation. Using a Python program, trees are classified into groups based on their diameters. The trees diameter range for calculations is 5–52 cm.
 4. Continuous Monitoring and Reporting. Any errors or deviations in the provided data trigger immediate notifications by the program.
 
-# Calculation discription 
+# Future for the base code
 
-# Data Story, Conclusions 
+<img width="512" height="145" alt="image" src="https://github.com/user-attachments/assets/96e4659f-bf41-4e08-8be6-e7ea55543681" />
+
+
