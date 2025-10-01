@@ -101,7 +101,7 @@ Data Quality Control (DQC) in a data analysis project involves systematically ap
 Key steps include:
 1. Defining Quality Standards. The necessary data for analysis is verified for completeness, ensuring no missing fields and compliance with the required format.
 2. Data Input Control. Automated checks during data entry prevent poor-quality data. If the "Price" column contains non-numeric values or negative prices, an error message is displayed. Missing prices are assigned a value of 0.
-3. Data Transformation. Using a Python program, trees are classified into groups based on their diameters. If a tree’s diameter is less than 5 cm, an error message is issued; diameters exceeding 52 cm are capped at 52 cm. The diameter range for calculations is 5–52 cm.
+3. Data Transformation. Using a Python program, trees are classified into groups based on their diameters.The trees diameter range for calculations is 5–52 cm.
 4. Continuous Monitoring and Reporting. Any errors or deviations in the provided data trigger immediate notifications by the program.
 
 # Calculation discription 
