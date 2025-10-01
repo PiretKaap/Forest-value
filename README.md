@@ -39,7 +39,8 @@ It provides wood usage by volume and price, and an estimated value of the cadast
 
 
 # Data Flow 
-<img width="5592" height="3176" alt="image" src="https://github.com/user-attachments/assets/3324a4ac-e040-4d64-acd7-3c6c15da273e" />
+<img width="5592" height="3176" alt="image" src="https://github.com/user-attachments/assets/9404b447-d94b-4118-914d-50716b805905" />
+
 
 
 
