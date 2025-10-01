@@ -100,7 +100,7 @@ The fundamental principles, governing the processing of data in the project, are
 # Data Quality Control 
 Data Quality Control (DQC) in a data analysis project involves systematically applying methods to ensure data meets predefined quality standards before, during, and after analysis.
 Key steps include:
-1. Defining Quality Standards. The necessary data for analysis (e.g., forest stand allocations XML file, Linda AI .json file, relative support height data, tree species data, and volume and price data for wood types like logs, small timber, pulpwood, and fuelwood) is verified for completeness, ensuring no missing fields and compliance with the required format.
+1. Defining Quality Standards. The necessary data for analysis is verified for completeness, ensuring no missing fields and compliance with the required format.
 2. Data Input Control. Automated checks during data entry prevent poor-quality data. If the "Price" column contains non-numeric values or negative prices, an error message is displayed. Missing prices are assigned a value of 0.
 3. Data Transformation. Using a Python program, trees are classified into groups based on their diameters. If a tree’s diameter is less than 5 cm, an error message is issued; diameters exceeding 52 cm are capped at 52 cm. The diameter range for calculations is 5–52 cm.
 4. Continuous Monitoring and Reporting. Any errors or deviations in the provided data trigger immediate notifications by the program.
