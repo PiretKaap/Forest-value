@@ -12,12 +12,12 @@ This is the final project for the **ValiIT! Data Analyst** course. The project d
 
 ## ⭐Project Team⭐
 #### Product Owner **Piret Kääp**, 
-LinkedIn: https://www.linkedin.com/in/piretsaartok/, Portfolio: https://github.com/PiretKaap/Portfolio
+LinkedIn: https://www.linkedin.com/in/piretk22p/, Portfolio: https://github.com/PiretKaap/Portfolio
 
-#### Product Tester **Triin Pent**,
+#### Product Development Tester **Triin Pent**,
 LinkedIn:, Portfolio: 
 
-#### Product Tester **Vahur Täht**, 
+#### Product Development Tester **Vahur Täht**, 
 LinkedIn:, Portfolio: 
 
 # Research Problem:  
@@ -105,7 +105,7 @@ Key steps include:
 3. Data Transformation. Using a Python program, trees are classified into groups based on their diameters. The trees diameter range for calculations is 5–52 cm.
 4. Continuous Monitoring and Reporting. Any errors or deviations in the provided data trigger immediate notifications by the program.
 
-# Future for the base code
+# Future for the base code :rocket:
 
 <img width="512" height="145" alt="image" src="https://github.com/user-attachments/assets/96e4659f-bf41-4e08-8be6-e7ea55543681" />
 
