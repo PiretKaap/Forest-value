@@ -41,7 +41,20 @@ It provides wood usage by volume and price, and an estimated value of the cadast
 # Data Flow 
 
 # How to use the Python code 
-Mis faili Api ja Json ja UI ja mis on algtabelid(Excelid)?
+To get the Pyhton code working you need the following files:
+
+**Pythoni base code** - Forest_UI_API.ipynb <br />
+**Base datasets** - Mahutabel.xlsx , Puu_nimetused_EE_ENG.xlsx , Suhtelised_tugikõrgused.xlsx <br />
+**Uploadable dataset** - Hinnakiri.xlsx
+
+When you've downloaded the files, open **Forest_UI_API.ipynb** via Visual Studio Code.
+1. Connect the base datasets to the code.
+2. **Run** the code.
+3. Go to the code answer and fill in the fields. (For the price list, you can also upload **Hinnakiri.xlsx** to get the prices.)
+4. **Fill in** the API section.
+5. Choose how much info about the cadastral unit you'd like to see.
+6. Press **"Arvuta."**
+7. See the data.
 
 # Data Dictionary
 | Field Name | Data Type | Definition | Unit| Source |
