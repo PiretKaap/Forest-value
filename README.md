@@ -39,6 +39,8 @@ It provides wood usage by volume and price, and an estimated value of the cadast
 
 
 # Data Flow 
+<img width="5592" height="3176" alt="image" src="https://github.com/user-attachments/assets/5b81efd6-ffd8-4380-992e-090bff99cd20" />
+
 
 # How to use the Python code
 To get the Pyhton code working you need the following files:
