@@ -4,7 +4,7 @@ This is the final project for the **ValiIT! Data Analyst** course. The project d
 ### Technical Tools Used:
 *Data Manipulation & Analysis:* **Python (Pandas, NumPy)**
 
-*Data Visualization:* **Python (ipywidgets), Power BI**
+*Data Visualization:* **Python (ipywidgets)**
 
 *Data source formats:* **JSON, API, Excel**
 
