@@ -89,13 +89,12 @@ When you've downloaded the files, open **Forest_UI_API.ipynb** via Visual Studio
 
 # Description of Data Protection
 The fundamental principles, governing the processing of data in the project, are as follows:
-1. Legality – the processing of data is based on the mandate of Company X;
+1. Legality – the data provided by Company X are being processed;
 2. Purpose limitation – the data shall be used solely for the calculation of the value of forest land;
 3. Data minimalisation – only the minimum amount of data necessary to achieve the objective shall be processed;
-4. Accuracy and data quality – the data used shall be deemed necessary by the client for the fulfilment of the task;
-5. Retention period – the period of data retention shall be determined by Company X;
-6. Security – the data shall not be disclosed to any third party, and their preservation shall be duly ensured;
-7. Accountability and transparency – where necessary, Company X shall be provided with information regarding the manner in which the data are processed and utilised for the achievement of the final project’s objective. Reliability, confidentiality, and the protection of Company X’s trade secrets shall be observed at all times.
+4. Retention period – the period of data retention shall be determined by Company X;
+5. Security – the data will not be shared with third parties and will be kept safe.
+
 
 # Data Quality Control 
 Data Quality Control (DQC) in a data analysis project involves systematically applying methods to ensure data meets predefined quality standards before, during, and after analysis.
