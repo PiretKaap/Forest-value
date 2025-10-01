@@ -40,7 +40,7 @@ It provides wood usage by volume and price, and an estimated value of the cadast
 
 # Data Flow 
 
-# How to use the Python code 
+# How to use the Python code
 To get the Pyhton code working you need the following files:
 
 **Pythoni base code** - Forest_UI_API.ipynb <br />
@@ -76,7 +76,7 @@ When you've downloaded the files, open **Forest_UI_API.ipynb** via Visual Studio
 | Kasutusotstarbe kategooria osakaal| FLOAT | proportion of total wood volume in this usage category | % | Mahutabel.xlsx |
 | Maht (tm) | FLOAT | Total volume of each usage category by species on the cadastral area | solid cubic meter | Calculation |
 | Hind (€/tm) | FLOAT | Log, small timber, pulpwood, fuelwood price per solid cubic meter | €/solid cubic meter | Hinnakiri.xlsx |
-| Hind (€) | FLOAT | Price for total volume  | € | Calculation |
+| Summa (€) | FLOAT | Price for total volume  | € | Calculation |
 | Kompleksteenus (€/tm)| FLOAT | Estimated cost of harvesting a cubic meter of wood | €/solid cubic meter | Manually entered |
 | Transport (€/tm) | FLOAT | Estimated cost of transporting a cubic meter of wood | €/solid cubic meter | Manually entered |
 | Alghinna(%) | INT | Percentage of the defined base price (for calculating reccomended starting bid) | % | Manually entered |
@@ -84,14 +84,14 @@ When you've downloaded the files, open **Forest_UI_API.ipynb** via Visual Studio
 | Soovituslik alghind | FLOAT | Calculation based on Tulud-kulud (jäätmeteta) calculation and reduced by 10% based on the Alghind.| € | Calculation |
 
 # Description of Data Protection
-The fundamental principles governing the processing of data provided by Company X for the purposes of the final project are as follows:
+The fundamental principles, governing the processing of data in the project, are as follows:
 1. Legality – the processing of data is based on the mandate of Company X;
 2. Purpose limitation – the data shall be used solely for the calculation of the value of forest land;
 3. Data minimalisation – only the minimum amount of data necessary to achieve the objective shall be processed;
-4. Accuracy and data quality – the data used shall be those deemed necessary by the client for the fulfilment of the task;
-5. Retention period – the period of data retention shall be determined by the company X;
+4. Accuracy and data quality – the data used shall be deemed necessary by the client for the fulfilment of the task;
+5. Retention period – the period of data retention shall be determined by Company X;
 6. Security – the data shall not be disclosed to any third party, and their preservation shall be duly ensured;
-7. Accountability and transparency – where necessary, the company X shall be provided with information regarding the manner in which the data are processed and utilised for the achievement of the final projec’s objective. Reliability, confidentiality, and the protection of the company X’s trade secrets shall be observed at all times.
+7. Accountability and transparency – where necessary, Company X shall be provided with information regarding the manner in which the data are processed and utilised for the achievement of the final project’s objective. Reliability, confidentiality, and the protection of Company X’s trade secrets shall be observed at all times.
 
 # Data Quality Control 
 Data Quality Control (DQC) in a data analysis project involves systematically applying methods to ensure data meets predefined quality standards before, during, and after analysis.
