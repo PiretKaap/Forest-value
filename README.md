@@ -21,7 +21,7 @@ LinkedIn:, Portfolio:
 LinkedIn:, Portfolio: 
 
 # Research Problem:  
-Company X operates in the fields of forestry, real estate, and the wood industry. It uses an in-house, depreciated program to calculate the values of forest land. The company wants a basecode to make the valuation process smoother and more efficient. 
+Timber AS operates in the fields of forestry, real estate, and the wood industry. It uses an in-house, depreciated program to calculate the values of forest land. The company wants a basecode to make the valuation process smoother and more efficient. 
 
 # Research Plan 
 The main question is how to determine a forests lands true value.   
@@ -85,11 +85,14 @@ When you've downloaded the files, open **Forest_UI_API.ipynb** via Visual Studio
 | Soovituslik alghind | FLOAT | Calculation based on Tulud-kulud (jäätmeteta) calculation and reduced by 10% based on the Alghind.| € | Calculation |
 
 # Description of Data Protection
+The project does not process personal data.
+The data in the capacity table has been modified to protect the trade secrets of Timber AS.
+
 The fundamental principles, governing the processing of data in the project, are as follows:
-1. Legality – the data provided by Company X are being processed;
+1. Legality – the data provided by Timber AS are being processed;
 2. Purpose limitation – the data shall be used solely for the calculation of the value of forest;
 3. Data minimalisation – only the minimum amount of data necessary to achieve the objective shall be processed;
-4. Retention period – the period of data retention shall be determined by Company X;
+4. Retention period – the period of data retention shall be determined by Timber AS;
 5. Security – the data will not be shared with third parties and will be kept safe.
 
 
@@ -99,7 +102,7 @@ Key steps include:
 1. Defining Quality Standards. The necessary data for analysis is verified for completeness, ensuring no missing fields and compliance with the required format.
 2. Data Input Control. If incorrect data is entered or the wrong file is uploaded, the program will stop working and an error message will be displayed.
 3. Data Transformation. Using a Python program, trees are classified into groups based on their diameters. The trees diameter range for calculations is 5–52 cm.
-4. Continuous Monitoring and Reporting. Any errors or deviations in the provided data trigger immediate notifications by the program.
+4. Continuous Monitoring. Any errors or deviations in the provided data trigger immediate notifications by the program.
 
 # Future for the base code :rocket:
 
