@@ -87,6 +87,7 @@ When you've downloaded the files, open **Forest_UI_API.ipynb** via Visual Studio
 # Description of Data Protection
 The project does not process personal data.
 The data in the capacity table has been modified to protect the trade secrets of Timber AS.
+
 The fundamental principles, governing the processing of data in the project, are as follows:
 1. Legality – the data provided by Timber AS are being processed;
 2. Purpose limitation – the data shall be used solely for the calculation of the value of forest;
