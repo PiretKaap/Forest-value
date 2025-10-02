@@ -99,7 +99,7 @@ Key steps include:
 1. Defining Quality Standards. The necessary data for analysis is verified for completeness, ensuring no missing fields and compliance with the required format.
 2. Data Input Control. If incorrect data is entered or the wrong file is uploaded, the program will stop working and an error message will be displayed.
 3. Data Transformation. Using a Python program, trees are classified into groups based on their diameters. The trees diameter range for calculations is 5–52 cm.
-4. Continuous Monitoring and Reporting. Any errors or deviations in the provided data trigger immediate notifications by the program.
+4. Continuous Monitoring. Any errors or deviations in the provided data trigger immediate notifications by the program.
 
 # Future for the base code :rocket:
 
