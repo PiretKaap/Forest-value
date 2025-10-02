@@ -15,7 +15,7 @@ This is the final project for the **ValiIT! Data Analyst** course. The project d
 LinkedIn: https://www.linkedin.com/in/piretk22p/, Portfolio: https://github.com/PiretKaap/Portfolio
 
 #### Product Development Tester **Triin Pent**,
-LinkedIn:, Portfolio: 
+LinkedIn:https://www.linkedin.com/in/triin-pent 
 
 #### Product Development Tester **Vahur Täht**, 
 LinkedIn: https://www.linkedin.com/in/vahur-t%C3%A4ht-371876358/, Portfolio: https://github.com/vahurtaht/Portfolio
@@ -85,16 +85,8 @@ When you've downloaded the files, open **Forest_UI_API.ipynb** via Visual Studio
 | Soovituslik alghind | FLOAT | Calculation based on Tulud-kulud (jäätmeteta) calculation and reduced by 10% based on the Alghind.| € | Calculation |
 
 # Description of Data Protection
-The project does not process personal data.
+The project does not process personal data. <br />
 The data in the capacity table has been modified to protect the trade secrets of Timber AS.
-
-The fundamental principles, governing the processing of data in the project, are as follows:
-1. Legality – the data provided by Timber AS are being processed;
-2. Purpose limitation – the data shall be used solely for the calculation of the value of forest;
-3. Data minimalisation – only the minimum amount of data necessary to achieve the objective shall be processed;
-4. Retention period – the period of data retention shall be determined by Timber AS;
-5. Security – the data will not be shared with third parties and will be kept safe.
-
 
 # Data Quality Control 
 Data Quality Control (DQC) in a data analysis project involves systematically applying methods to ensure data meets predefined quality standards before, during, and after analysis.
