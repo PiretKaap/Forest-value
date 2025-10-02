@@ -18,7 +18,7 @@ LinkedIn: https://www.linkedin.com/in/piretk22p/, Portfolio: https://github.com/
 LinkedIn:, Portfolio: 
 
 #### Product Development Tester **Vahur Täht**, 
-LinkedIn:, Portfolio: 
+LinkedIn: https://www.linkedin.com/in/vahur-t%C3%A4ht-371876358/, Portfolio: https://github.com/vahurtaht/Portfolio
 
 # Research Problem:  
 Timber AS operates in the fields of forestry, real estate, and the wood industry. It uses an in-house, depreciated program to calculate the values of forest land. The company wants a basecode to make the valuation process smoother and more efficient. 
